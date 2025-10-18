@@ -76,11 +76,11 @@ pkill -f python
 </div>
 
 ## ⚠️ Disclaimers
-`"This tool is intended solely for ethical cybersecurity purposes, such as penetration testing, vulnerability assessments, and authorized research. Unauthorized use to disrupt networks, services, or systems is illegal and violates cybersecurity laws. Misuse may result in severe legal penalties, including fines and imprisonment. Always obtain explicit permission before testing any system. By using this tool, you agree to comply with all applicable laws and assume full responsibility for your actions."`
+`"This tool is intended solely for ethical cybersecurity purposes, such as penetration testing, vulnerability assessments, and authorized research. Unauthorized use to disrupt networks, services, or systems is illegal and violates cybersecurity laws. Misuse may result in severe legal penalties, including fines and imprisonment. Always obtain explicit permission before testing any system. By using this tool, you agree to comply with all applicable laws and assume full responsibility for your actions.`
 
-BSD CLAUSE IS IN THE CODE DIRECTLY
-INCASE YOU "DIDNT KNOW" IT WILL PROTECT ME 
-FROM YOUR STUPID MISTAKES
+`BSD CLAUSE IS IN THE CODE DIRECTLY`
+`INCASE YOU "DIDNT KNOW" IT WILL PROTECT ME `
+`FROM YOUR STUPID MISTAKES`
 
-PLEASE DO NOT USE THIS SINCE ITS UPGRADED AND
-MAY CAUSE DAMAGE TO YOU AND THE PISO WIFI.
+`PLEASE DO NOT USE THIS SINCE ITS UPGRADED AND`
+`MAY CAUSE DAMAGE TO YOU AND THE PISO WIFI.`
